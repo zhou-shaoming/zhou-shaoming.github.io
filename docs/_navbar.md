@@ -1,6 +1,6 @@
 - Translations
-  - [:uk: English](/)
-  - [:cn: 简体中文](/zh-cn/)
-  - [:de: Deutsch](/de-de/)
-  - [:es: Español](/es/)
-  - [:ru: Русский](/ru-ru/)
+  - [🇨🇳 简体中文](https://file+.vscode-resource.vscode-cdn.net/zh-cn/)
+  - [🇬🇧 English](https://file+.vscode-resource.vscode-cdn.net/)
+  - [🇩🇪 Deutsch](/de-de/)
+  - [🇪🇸 Español](/es/)
+  - [🇷🇺 Русский](/ru-ru/)
