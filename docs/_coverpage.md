@@ -2,4 +2,4 @@
 
 # 我的个人网站
 
-[ISP十宗罪](ISP十宗罪.md)
+[sensor的问题以及ISP的处理原理](Isensor的问题以及ISP的处理原.md)
